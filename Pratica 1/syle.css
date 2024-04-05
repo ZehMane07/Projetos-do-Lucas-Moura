@@ -1,0 +1,10 @@
+:root {
+    --azul: #0000ff;
+    --branco: #ffffff;
+    --vermelho: #ff0000;
+}
+
+body {
+    font: var(--branco);
+    background-color: var(--vermelho);
+}
